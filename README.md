@@ -1,2 +1,2 @@
 # Bayesian-Meta-Learning
-Bayesian meta-learning is an innovative machine learning framework that seamlessly blends the power of Bayesian statistics with the adaptability of meta-learning.
+Bayesian meta-learning is an innovative machine learning paradigm that combines the flexibility of meta-learning with the strength of Bayesian statistics. It performs well when there is little data available for new tasks since it can make accurate predictions quickly. This methodology has strong uses in the field of few-shot learning, where the main goal is to enable a model to quickly adapt to new tasks even in the face of a very small sample size.
